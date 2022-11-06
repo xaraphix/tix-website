@@ -1,0 +1,20 @@
+ #LIGHT
+          primary  { color: #0051ff }
+          secondary  { color: #6a00ff }
+          accent  { color: #001f6e }
+          neutral  { color: #2f2e39 }
+          base  { color: #ffffff}
+          info  { color: #6A9AEC }
+          success  { color: #00794b }
+          warning  { color: #F8D268 }
+          error  { color: #c20020 }
+#DARK
+          primary  { color: #0036aa }
+          secondary  { color: #6a00ff }
+          accent  { color: #002e4f }
+          neutral  { color: #2f2e39 }
+          base  { color: #0f0a22 }
+          info  { color: #003083 }
+          success  { color: #00794b }
+          warning  { color: #F8D268 }
+          error  { color: #c20020 }
