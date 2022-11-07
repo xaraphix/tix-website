@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1000"
+   height="335"
+   viewBox="0 0 1000 335"
+   id="svg583"
+   sodipodi:docname="tix.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs587" />
+  <sodipodi:namedview
+     id="namedview585"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.357"
+     inkscape:cx="499.63154"
+     inkscape:cy="167.64923"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg583" />
+  <g
+     transform="matrix(1,0,0,1,-0.6060606060606233,0.5769998691304181)"
+     id="g581">
+    <svg
+       viewBox="0 0 396 133"
+       data-background-color="#ffffff"
+       preserveAspectRatio="xMidYMid meet"
+       height="335"
+       width="1000"
+       version="1.1"
+       id="svg579">
+      <defs
+         id="defs538" />
+      <g
+         id="tight-bounds"
+         transform="matrix(1,0,0,1,0.2400000000000091,-0.22907755998312496)">
+        <svg
+           viewBox="0 0 395.52 133.45815511996628"
+           height="133.45815511996628"
+           width="395.52"
+           version="1.1"
+           id="svg574">
+          <g
+             id="g572">
+            <svg
+               viewBox="0 0 688.9998587657142 232.4854622491645"
+               height="133.45815511996628"
+               width="395.52"
+               version="1.1"
+               id="svg570">
+              <g
+                 transform="matrix(1,0,0,1,0,12.359873981725102)"
+                 id="g555">
+                <svg
+                   viewBox="0 0 395.52 207.7657142857143"
+                   height="207.7657142857143"
+                   width="395.52"
+                   version="1.1"
+                   id="svg553">
+                  <g
+                     id="g551">
+                    <svg
+                       viewBox="0 0 395.52 207.7657142857143"
+                       height="207.7657142857143"
+                       width="395.52"
+                       version="1.1"
+                       id="svg549">
+                      <g
+                         id="g547">
+                        <svg
+                           viewBox="0 0 395.52 207.7657142857143"
+                           height="207.7657142857143"
+                           width="395.52"
+                           version="1.1"
+                           id="svg545">
+                          <g
+                             transform="matrix(1,0,0,1,0,0)"
+                             id="g543">
+                            <svg
+                               width="395.52"
+                               viewBox="2.8499999046325684 -35.29999923706055 67.20000457763672 35.29999923706055"
+                               height="207.7657142857143"
+                               data-palette-color="#00712f"
+                               version="1.1"
+                               id="svg541">
+                              <path
+                                 d="M2.85-33.65L2.85-35.3 25.9-35.3 25.9-33.65 15.25-33.65 15.25 0 13.5 0 13.5-33.65 2.85-33.65ZM34.6 0L34.6-35.3 36.35-35.3 36.35 0 34.6 0ZM67.84 0L44.95-35.3 47.05-35.3 70.05 0 67.84 0ZM46.55 0L44.45 0 56.25-18.5 57.25-17.1 46.55 0ZM58.05-17.65L57.05-19 67.3-35.3 69.34-35.3 58.05-17.65Z"
+                                 opacity="1"
+                                 transform="matrix(1,0,0,1,0,0)"
+                                 fill="#00712f"
+                                 class="undefined-text-0"
+                                 data-fill-palette-color="primary"
+                                 id="text-0"
+                                 style="fill:#2b2200" />
+                            </svg>
+                          </g>
+                        </svg>
+                      </g>
+                    </svg>
+                  </g>
+                </svg>
+              </g>
+              <g
+                 transform="matrix(1,0,0,1,444.56849876571425,0)"
+                 id="g568">
+                <svg
+                   viewBox="0 0 244.43135999999996 232.4854622491645"
+                   height="232.4854622491645"
+                   width="244.43135999999996"
+                   version="1.1"
+                   id="svg566">
+                  <g
+                     id="g564">
+                    <svg
+                       version="1.1"
+                       x="0"
+                       y="0"
+                       viewBox="11.100000381469727 11.899999618530273 79.80000305175781 75.9000015258789"
+                       enable-background="new 0 0 100 100"
+                       xml:space="preserve"
+                       height="232.4854622491645"
+                       width="244.43135999999996"
+                       class="icon-icon-0"
+                       data-fill-palette-color="accent"
+                       id="icon-0"><g
+                         fill="#00bb8a"
+                         data-fill-palette-color="accent"
+                         id="g561"><polygon
+                           points="42.7,70 80.6,15 76.1,11.9 41.4,62.2 21.9,47.8 18.6,52.2  "
+                           fill="#00bb8a"
+                           data-fill-palette-color="accent"
+                           id="polygon557"
+                           style="fill:#2b2200" /><polygon
+                           points="86.4,19 44.3,80 14.4,57.8 11.1,62.2 45.6,87.8 90.9,22.1  "
+                           fill="#00bb8a"
+                           data-fill-palette-color="accent"
+                           id="polygon559"
+                           style="fill:#2b2200" /></g></svg>
+                  </g>
+                </svg>
+              </g>
+            </svg>
+          </g>
+        </svg>
+        <rect
+           width="395.52"
+           height="133.45815511996628"
+           fill="none"
+           stroke="none"
+           visibility="hidden"
+           id="rect576" />
+      </g>
+    </svg>
+  </g>
+</svg>

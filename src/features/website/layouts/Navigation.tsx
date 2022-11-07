@@ -99,9 +99,9 @@ export const Navigation: FC<INavigationProps> = (props) => {
           </div>
           <a className='btn-ghost btn  px-0 normal-case'>
             {themeMode === themeModes.DARK_THEME_MODE ? (
-              <img src='dawkilogo.svg' className='h-6' />
+              <img src='tixlogo.svg' className='h-6' />
             ) : (
-              <img src='dawkilogo-dark.svg' className='h-6' />
+              <img src='tixlogo-dark.svg' className='h-6' />
             )}
           </a>
         </div>

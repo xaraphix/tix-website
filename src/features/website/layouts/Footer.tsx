@@ -23,126 +23,48 @@ export const Footer: FC<IFooterProps> = (props) => {
         <div>
           <span className='footer-title'>More Projects</span>
           <ul className='flex flex-wrap items-center gap-16'>
-            <li>
-              <a
-                href='https://tailgrids.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/bluecco.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://ayroui.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/cridux.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://graygrids.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/fincal.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://lineicons.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/finix.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/fitr.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/habgo.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/jambox.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/nftix.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/notix.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/tix.svg' alt='tailgrids' />
-              </a>
-            </li>
-            <li>
-              <a
-                href='https://uideck.com'
-                rel='nofollow noopner'
-                target='_blank'
-                className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
-              >
-                <img src='projects/xafku.svg' alt='tailgrids' />
-              </a>
-            </li>
+            {[
+              "dawki",
+              "bluecco",
+              "nftix",
+              "notix",
+              "luki",
+              "fincal",
+              "finix",
+              "fitr",
+              "jambox",
+              "habgo",
+              "xafku",
+              "jambox",
+            ].map((item) => (
+              <li>
+                <a
+                  href={`https://${item}.suyashsingh.in`}
+                  rel='nofollow noopner'
+                  target='_blank'
+                  className='mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]'
+                >
+                  {themeMode === themeModes.DARK_THEME_MODE ? (
+                    <img src={`projects/${item}logo.svg`} alt={`${item}`} />
+                  ) : (
+                    <img
+                      src={`projects/${item}logo-dark.svg`}
+                      alt={`${item}`}
+                    />
+                  )}
+                </a>
+              </li>
+            ))}
           </ul>
         </div>
       </footer>
       <footer className='footer flex flex-row border-t border-base-300 bg-base-200 px-8 py-4 text-base-content xl:px-5 2xl:px-32'>
         <div className='grid-flow-col items-center'>
-          <a href='' className='inline-block max-w-[160px]'>
+          <a href='tix.suyashsingh.in' className='inline-block max-w-[160px]'>
             {themeMode === themeModes.DARK_THEME_MODE ? (
-              <img src='dawkilogo.svg' />
+              <img src='tixlogo.svg' />
             ) : (
-              <img src='dawkilogo-dark.svg' />
+              <img src='tixlogo-dark.svg' />
             )}
           </a>
         </div>
