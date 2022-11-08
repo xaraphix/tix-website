@@ -14,11 +14,41 @@ export const Footer: FC<IFooterProps> = (props) => {
       <footer className='footer mt-32 flex flex-col gap-16 border-t border-neutral-content bg-base-200 p-10 text-base-content xl:flex-row xl:px-5 2xl:mt-16  2xl:px-32'>
         <div>
           <span className='footer-title'>About the developer</span>
-          <a className='link-hover link'>Website</a>
-          <a className='link-hover link'>Posts</a>
-          <a className='link-hover link'>Twitter</a>
-          <a className='link-hover link'>LinkedIn</a>
-          <a className='link-hover link'>Github</a>
+          <a
+            target='_blank'
+            className='link-hover link'
+            href='https://suyashsingh.in'
+          >
+            Website
+          </a>
+          <a
+            target='_blank'
+            href='https://suyashsingh.in/posts'
+            className='link-hover link'
+          >
+            Posts
+          </a>
+          <a
+            target='_blank'
+            href='https://twitter.com/_SuyashSingh'
+            className='link-hover link'
+          >
+            Twitter
+          </a>
+          <a
+            target='_blank'
+            href='https://www.linkedin.com/in/suyashsinghin/'
+            className='link-hover link'
+          >
+            LinkedIn
+          </a>
+          <a
+            target='_blank'
+            href='https://github.com/xaraphix'
+            className='link-hover link'
+          >
+            Github
+          </a>
         </div>
         <div>
           <span className='footer-title'>More Projects</span>

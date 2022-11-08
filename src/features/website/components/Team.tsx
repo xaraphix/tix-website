@@ -63,13 +63,13 @@ const Contact: React.FC<ContactByProps> = ({}) => {
                       </div>
                       <div className='flex select-none flex-col  items-center justify-center gap-10 md:flex-row '>
                         <div className='flex items-center justify-center'>
-                          <a href=''>
+                          <a href='https://www.linkedin.com/in/suyashsinghin/'>
                             <LinkedInIcon className='mx-2 flex !h-12 !w-12 items-center justify-center text-primary-content hover:text-neutral-focus' />
                           </a>
-                          <a href=''>
+                          <a href='https://github.com/xaraphix'>
                             <GitHubIcon className='mx-2 flex !h-12 !w-12 items-center justify-center text-primary-content hover:text-neutral-focus' />
                           </a>
-                          <a href=''>
+                          <a href='https://twitter.com/_SuyashSingh'>
                             <TwitterIcon className='mx-2 flex !h-12 !w-12 items-center justify-center text-primary-content hover:text-neutral-focus' />
                           </a>
                         </div>
